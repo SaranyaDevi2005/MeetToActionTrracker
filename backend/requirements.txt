@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+pymongo
+chromadb
+groq
+openai-whisper
+google-auth
+google-auth-oauthlib
+google-api-python-client
+python-dotenv
